@@ -1,1 +1,2 @@
 Here we have created a footer
+Updated the Footer UI
