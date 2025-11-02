@@ -1,3 +1,4 @@
 Fixed 1st bug
 Fixed 2nd bug
 Fixed 3nd bug
+Fixed 4th bug in master
